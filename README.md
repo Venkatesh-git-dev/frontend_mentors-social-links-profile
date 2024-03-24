@@ -20,14 +20,10 @@ Users should be able to:
 ![Screenshot-Desktop](./screenshots/desktop.png)
 ![Screenshot-Mobile](./screenshots/mobile.png)
 
-### Demo
-
-You can preview the project [here](https://your-live-site-url.com).
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- REPO URL: [Repo URL](https://github.com/Venkatesh-git-dev/frontend_mentors-social-links-profile)
+- Live Site URL: [Add live site URL here](https://venkatesh-fm-social-link-profile.netlify.app/)
 
 ## My Process
 
@@ -47,7 +43,7 @@ In future projects, I aim to focus on:
 
 ### Author
 
-- GitHub - [Your Name](https://github.com/your-username)
+- GitHub - [venkatesh-git-dev](https://github.com/Venkatesh-git-dev)
 
 ## Acknowledgments
 
